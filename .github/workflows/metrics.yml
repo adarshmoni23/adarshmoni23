@@ -18,7 +18,7 @@ jobs:
       - name: Core metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           filename: metrics-core.svg
 
           user: adarshmoni23
@@ -55,7 +55,7 @@ jobs:
       - name: Calendar heatmap
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           filename: metrics-calendar.svg
 
           user: adarshmoni23
