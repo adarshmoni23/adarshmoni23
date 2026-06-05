@@ -165,12 +165,12 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adarshsmoni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshsmoni)
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-Coming_Soon-00b4d8?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/adarshmoni)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-Coming_Soon-00b4d8?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/adarshmoni23)
 [![Email](https://img.shields.io/badge/Email-adarshsunther@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshsunther@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adarshmoni&color=00b4d8&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=adarshmoni23&color=00b4d8&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
