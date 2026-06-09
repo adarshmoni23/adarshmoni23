@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:023e8a,100:00b4d8&height=220&section=header&text=ADARSH%20S%20MONI&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Engineering%20Lead%20%7C%20Lakehouse%20Architect&descAlignY=58&descColor=90e0ef&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=📊+2.4B%2B+records+in+the+Lakehouse+%7C+20M+ingested+daily;⚡+1-hour+data+freshness+SLA+across+US+%2B+India;🏗️+PostgreSQL+→+Redshift+→+Apache+Iceberg;🚀+60x+backfill+speedup+%7C+5+days+→+2+hours;🔧+PySpark+%7C+AWS+Glue+%7C+Argo+Workflows+%7C+Iceberg" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=2.4B%2B+records+in+the+Lakehouse+%7C+20M+ingested+daily;1-hour+data+freshness+SLA+across+US+%2B+India;PostgreSQL+to+Redshift+to+Apache+Iceberg;60x+backfill+speedup+%7C+5+days+to+2+hours;PySpark+%7C+AWS+Glue+%7C+Argo+Workflows+%7C+Iceberg" alt="Typing SVG" />
 
 </div>
 
